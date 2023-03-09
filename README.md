@@ -11,7 +11,7 @@
 
 ## Live URL
 
-<img src="assets/images/Preview of Webpage.png" width=300 height=800 alt="Screenshot of webpage">
+<img src="assets/images/Preview of Webpage.png" width=500 height=800 alt="Screenshot of webpage">
 
 ## Resources Used on Project
 1. For semantic definitions and how to use "https://developer.mozilla.org/en-US/docs/Glossary/Semantics"
@@ -20,4 +20,3 @@
 ## Contributors
 1. caballero-r
 2. Xandromus
-3. John J.
