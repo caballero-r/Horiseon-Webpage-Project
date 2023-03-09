@@ -10,6 +10,7 @@
 3. Added a descriptive title
 
 ## Live URL
+https://caballero-r.github.io/Horiseon-Webpage-Project/
 
 <img src="assets/images/Preview of Webpage.png" width=500 height=800 alt="Screenshot of webpage">
 
